@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'CustomFont';
-    src: url('/fonts/Fontspring-DEMO-pontiac_light.otf') format('OpenType');
+    src: url('fonts/Fontspring-DEMO-pontiac_light.otf') format('OpenType');
 }
 body{
     background-color: #0F0F0F;
